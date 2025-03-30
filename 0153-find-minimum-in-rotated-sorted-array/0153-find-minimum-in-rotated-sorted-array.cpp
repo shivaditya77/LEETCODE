@@ -18,7 +18,7 @@ public:
             }
             else if(nums[mid]<=nums[end])
             {
-                end=mid;
+                end=mid-1;
             }
          }
       return nums[start];
