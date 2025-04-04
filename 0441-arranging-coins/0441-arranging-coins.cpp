@@ -1,12 +1,12 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        int start=0;
-        int end=n;
+        long int start=0;
+        long int end=n;
         int ans;
         while(start<=end)
         {
-            int mid=start+(end-start)/2;
+            long long int mid=start+(end-start)/2;
 
             if((mid*(mid+1))/2<=n)
             {
