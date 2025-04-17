@@ -1,26 +1,53 @@
+// class Solution {
+// public:
+//     int findKthPositive(vector<int>& arr, int k) {
+//         int num=1;
+//         int n=arr.size();
+//         int i=0;
+//         while(i<n && k>0)
+//         {
+//             if(arr[i]==num)
+//             {
+//                 i++;
+//             }
+//             else
+//             {
+//                 k--;
+//             }
+//             num++;
+//         }
+      
+//         while(k--)
+//         {
+//             num++;
+//         }
+//         return num-1;
+//     }
+// };
+
+
+
+
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        int num=1;
-        int n=arr.size();
-        int i=0;
-        while(i<n && k>0)
+        int l=0;
+        int r=arr.size()-1;
+        while(l<=r)
         {
-            if(arr[i]==num)
+            int mid=l+(r-l)/2;
+            int missing=arr[mid]-(mid+1);
+
+            if(missing<k)
             {
-                i++;
+                l=mid+1;
             }
             else
             {
-                k--;
+                r=mid-1;
             }
-            num++;
         }
-      
-        while(k--)
-        {
-            num++;
-        }
-        return num-1;
+
+        return l+k;
     }
 };
