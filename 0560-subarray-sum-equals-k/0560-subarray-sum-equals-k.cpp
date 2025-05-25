@@ -10,10 +10,10 @@ public:
         }
 
         unordered_map<int,int>mp;
-        // for(int i=0;i<n;i++)
-        // {
-        //     mp[ps[i]]++;
-        // }
+        for(int i=0;i<n;i++)
+        {
+            mp[ps[i]]++;
+        }
         
         int count=0;
         for(int j=0;j<n;j++)
@@ -32,7 +32,7 @@ public:
             // {
             //     mp[ps[j]]=0;
             // }
-            mp[ps[j]]++;
+            // mp[ps[j]]++;
         }
         return count;
     }
