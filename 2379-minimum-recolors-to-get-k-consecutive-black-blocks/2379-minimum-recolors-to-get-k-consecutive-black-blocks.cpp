@@ -2,17 +2,28 @@ class Solution {
 public:
     int minimumRecolors(string blocks, int k) {
         int count=0;
-        for(int i=0;i<blocks.size();i++)
+        int mini=INT_MAX;
+        for(int i=0;i<k;i++)
         {
-            if(blocks[i]=='B')
+            if(blocks[i]=='W')
             {
                 count++;
             }
         }
-        if(count>k)
+        mini=min(mini,count);
+
+        for(int i=1;i<=blocks.size()-k;i++)
         {
-            return 0;
+            count=0;
+            for(int j=i;j<=(i+k-1);j++)
+            {
+               if(blocks[j]=='W')
+               {
+                count++;
+               }
+            }
+            mini=min(mini,count);
         }
-            return (k-count)+1;
+        return mini;
     }
 };
