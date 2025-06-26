@@ -38,43 +38,29 @@
 
 
 
-
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int maxi=INT_MIN;
-        int k=2;
-        int n=fruits.size();
-        unordered_map<int,int>mp;
-        int p=1;
-        int left=0;
-        for(int right=0;right<n;right++)
-        {
-          if(mp.find(fruits[right])!=mp.end())
-          {
-             mp[fruits[right]]++;
-          }
-          else if(mp.find(fruits[right])==mp.end())
-          {
-             if(p<=k)
-             {
-                mp[fruits[right]]++;
-                p++;
-             }
-             else if(p>k)
-             {
-                mp[fruits[left]]--;
-                if(mp[fruits[left]]==0)
-                {
-                    p--;
-                    mp[fruits[right]]++;
-                }
+        unordered_map<int, int> mp;
+        int left = 0;
+        int maxFruits = 0;
+        int k = 2;
 
+        for (int right = 0; right < fruits.size(); right++) {
+            mp[fruits[right]]++;
+
+            // Remove from the left until only 2 types remain
+            while (mp.size() > k) {
+                mp[fruits[left]]--;
+                if (mp[fruits[left]] == 0) {
+                    mp.erase(fruits[left]);
+                }
                 left++;
-             }
-          }
-          maxi=max(maxi,right-left+1);
+            }
+
+            maxFruits = max(maxFruits, right - left + 1);
         }
-        return maxi;
+
+        return maxFruits;
     }
 };
