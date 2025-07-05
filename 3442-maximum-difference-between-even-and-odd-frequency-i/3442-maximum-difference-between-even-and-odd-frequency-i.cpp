@@ -1,32 +1,26 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        unordered_map<char,int>mp;
-        for(int i=0;i<s.size();i++)
-        {
-            mp[s[i]]++;
+        unordered_map<char, int> mp;
+        for (char c : s) {
+            mp[c]++;
         }
-         
-        int odd=0;
-        int even=0; 
-        for(auto it:mp)
-        {
-            if(it.second%2==0)
-            {
-                even=max(even,it.second);
-            }
 
-            if(it.second%2!=0)
-            {
-                odd=max(odd,it.second);
+        int maxOdd = 0;
+        int minEven = INT_MAX;
+        bool hasOdd = false, hasEven = false;
+
+        for (auto it : mp) {
+            if (it.second % 2 == 1) {
+                maxOdd = max(maxOdd, it.second);
+                hasOdd = true;
+            } else {
+                minEven = min(minEven, it.second);
+                hasEven = true;
             }
         }
 
-        if(odd-even<0)
-        {
-            return -1;
-        }
-
-        return odd-even;
+        if (!hasOdd || !hasEven) return -1;
+        return maxOdd - minEven;
     }
 };
