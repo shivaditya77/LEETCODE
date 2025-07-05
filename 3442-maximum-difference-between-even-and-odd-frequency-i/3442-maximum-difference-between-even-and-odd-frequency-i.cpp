@@ -20,7 +20,7 @@ public:
             }
         }
 
-        if (!hasOdd || !hasEven) return -1;
+        //if (!hasOdd || !hasEven) return -1;
         return maxOdd - minEven;
     }
 };
