@@ -6,7 +6,7 @@ public:
             mp[c]++;
         }
 
-        int maxOdd = 0;
+        int maxOdd =INT_MIN;
         int minEven = INT_MAX;
         bool hasOdd = false, hasEven = false;
 
