@@ -8,7 +8,7 @@ public:
         }
          
         int stu0=0;
-        int stu1=1;
+        int stu1=0;
         for(int i=0;i<students.size();i++)
         {
             if(students[i]==0)
