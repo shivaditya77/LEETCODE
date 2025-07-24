@@ -18,10 +18,11 @@ public:
             }
             j++;
         }
-        if(st.size()==1 || st.size()==s.size())
-        {
-            count++;
-        }
+        count++;
+        // if(st.size()==1 || st.size()==s.size())
+        // {
+        //     count++;
+        // }
         return count;
     }
 };
