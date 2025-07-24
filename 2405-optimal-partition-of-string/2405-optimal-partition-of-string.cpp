@@ -17,12 +17,12 @@ public:
                 st.insert(s[j]);
             }
             j++;
+            if(j==s.size()-1)
+            {
+                count++;
+            }
         }
-        count++;
-        // if(st.size()==1 || st.size()==s.size())
-        // {
-        //     count++;
-        // }
+       // count++;
         return count;
     }
 };
