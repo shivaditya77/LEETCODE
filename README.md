@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivaditya77/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivaditya77/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivaditya77/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivaditya77/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivaditya77/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -28,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivaditya77/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivaditya77/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
