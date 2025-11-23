@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivaditya77/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivaditya77/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivaditya77/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivaditya77/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivaditya77/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivaditya77/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivaditya77/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
