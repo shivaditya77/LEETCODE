@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivaditya77/LEETCODE/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivaditya77/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0867-transpose-matrix](https://github.com/shivaditya77/LEETCODE/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -105,9 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivaditya77/LEETCODE/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/shivaditya77/LEETCODE/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/shivaditya77/LEETCODE/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shivaditya77/LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
