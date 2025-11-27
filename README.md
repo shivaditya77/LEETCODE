@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivaditya77/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0867-transpose-matrix](https://github.com/shivaditya77/LEETCODE/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shivaditya77/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/shivaditya77/LEETCODE/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/shivaditya77/LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
