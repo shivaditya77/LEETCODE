@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivaditya77/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivaditya77/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivaditya77/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivaditya77/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivaditya77/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivaditya77/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/shivaditya77/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivaditya77/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivaditya77/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Linked List
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivaditya77/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivaditya77/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
